@@ -1,0 +1,22 @@
+1. make new folder
+
+2. first check npm version
+npm --version
+
+
+3. install angular there by using
+npm install -g @angular/cli@latest
+
+4. make new angular project
+ng new 2c (here 2c is name of the project)
+
+5. change codes in 
+appcomponent.html
+appcomponent.ts
+appcomponent.css
+
+6. run it by using
+ng serve
+
+if [Error: This command is not available when running the Angular CLI outside a workspace.]
+right click project in vs code and click on "open with integrated terminal"
